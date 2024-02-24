@@ -15,7 +15,7 @@ export default function homePage() {
               'WebkitTextFillColor': 'transparent',
             }} className="font-black text-9xl max-md:text-6xl">Nyxro!</h1>
           </span>
-          <p className="text-center mt-6 text-xl max-md:text-1xl">Nyxro é um bot de música criado e desenvolvido para tocar suas músicas favoritas!</p>
+          <p className="text-center mt-6 text-xl max-md:text-1xl">Um bot criado e desenvolvido para tocar suas músicas favoritas!</p>
 
           <button className="mt-10 pt-2 pb-2 pr-10 pl-10 bg-[#FB029E] rounded-xl text-white font-semibold">
             <a href="https://discord.com/oauth2/authorize?client_id=1152354301914648636&scope=bot%20applications.commands">Adicionar ao seu servidor</a>

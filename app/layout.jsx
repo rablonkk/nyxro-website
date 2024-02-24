@@ -27,7 +27,7 @@ export default function Page({ children }) {
 
             <div className="hidden w-full md:block md:w-auto" id="navbar-default">
               <ul className="flex flex-col p-4 mt-4 rounded-lg md:flex-row md:space-x-8 md:mt-0 md:text-lg md:font-normal md:border-0">
-                <li><a href="/" className="block py-2 pl-3 pr-4 md:p-0">Home</a></li>
+                <li><a href="https://terms.nyxrobot.site" className="block py-2 pl-3 pr-4 md:p-0">Termos de serviço</a></li>
                 <li><a href="https://docs.nyxrobot.site" className="block py-2 pl-3 pr-4 md:p-0">Documentação</a></li>
               </ul>
             </div>
