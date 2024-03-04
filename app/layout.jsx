@@ -10,13 +10,13 @@ export default function Page({ children }) {
 
   return (
     <html lang="pt-br">
-      <head><title>Nyxro | Um simples bot de música para Discord</title><link rel="icon" as="image" href="/favicon.ico" /></head>
+      <head><title>NyxroBot | Um simples bot de múisca para Discord</title><link rel="icon" as="image" href="/favicon.ico" /></head>
       <body>
         <header className="border-gray-200 px-2 sm:px-4 py-2.5 rounded sticky">
           <div className="container flex flex-wrap items-center justify-between mx-auto">
             <a href="/" className="flex items-center">
-              <img src="/favicon.ico" className="h-6 mr-0 sm:h-9 mb-0" alt="Nyxro Logo" />
-              <span className="self-center text-2xl font-black whitespace-nowrap">yxro</span>
+              <img src="/favicon.ico" className="h-6 mr-0 sm:h-9 mb-1" alt="NyxroBot Logo" />
+              <span className="self-center text-2xl font-black whitespace-nowrap">yxroBot</span>
             </a>
 
             <button onClick={() => openNavbar()} className="inline-flex items-center p-2 ml-3 text-sm md:hidden text-gray-400">
@@ -27,8 +27,9 @@ export default function Page({ children }) {
 
             <div className="hidden w-full md:block md:w-auto" id="navbar-default">
               <ul className="flex flex-col p-4 mt-4 rounded-lg md:flex-row md:space-x-8 md:mt-0 md:text-lg md:font-normal md:border-0">
-                <li><a href="https://terms.nyxrobot.site" className="block py-2 pl-3 pr-4 md:p-0">Termos de serviço</a></li>
-                <li><a href="https://docs.nyxrobot.site" className="block py-2 pl-3 pr-4 md:p-0">Documentação</a></li>
+                <li><a href="/" className="block py-2 pl-3 pr-4 md:p-0">Início</a></li>
+                <li><a href="https://terms.nyxrobot.site/documentacao/comandos" className="block py-2 pl-3 pr-4 md:p-0">Comandos</a></li>
+                <li><a href="https://terms.nyxrobot.site/termos-de-servico-and-uso/termos-de-uso" className="block py-2 pl-3 pr-4 md:p-0">Termos</a></li>
               </ul>
             </div>
           </div>
