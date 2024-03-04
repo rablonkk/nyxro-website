@@ -23,7 +23,7 @@ export default function homePage() {
           <p className="text-center text-xl max-md:text-sm">Um bot desenvolvido para tocar suas músicas favoritas!</p>
 
           <button className="mt-10 pt-2 pb-2 pr-10 pl-10 bg-[#FB029E] rounded-xl text-white font-semibold">
-            <a href="https://discord.com/oauth2/authorize?client_id=1010005602480689243&permissions=412320032832&scope=bot%20applications.commands">Adicione ao seu servidor!</a>
+            <a href="https://discord.com/oauth2/authorize?client_id=1152354301914648636&permissions=274881144832&scope=bot+applications.commands">Adicione ao seu servidor!</a>
           </button>
         </div>
       </main>
