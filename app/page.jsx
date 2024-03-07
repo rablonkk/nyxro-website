@@ -18,7 +18,7 @@ export default function homePage() {
               'background': '-webkit-linear-gradient(100deg, #24292F 20%, #FB029E 100%)',
               'WebkitBackgroundClip': 'text',
               'WebkitTextFillColor': 'transparent',
-            }} className="font-black text-9xl max-md:text-6xl">NyxroBot</h1>
+            }} className="font-black text-9xl max-md:text-6xl">Nyxro</h1>
           </span>
           <p className="text-center text-xl max-md:text-sm">Um bot desenvolvido para tocar suas músicas favoritas!</p>
 
