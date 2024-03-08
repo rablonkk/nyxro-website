@@ -29,6 +29,7 @@ export default function Page({ children }) {
               <ul className="flex flex-col p-4 mt-4 rounded-lg md:flex-row md:space-x-8 md:mt-0 md:text-lg md:font-normal md:border-0">
                 <li><a href="/" className="block py-2 pl-3 pr-4 md:p-0">Início</a></li>
                 <li><a href="https://terms.nyxrobot.site/documentacao/comandos" className="block py-2 pl-3 pr-4 md:p-0">Comandos</a></li>
+                <li><a href="https://status.nyxrobot.site/" className="block py-2 pl-3 pr-4 md:p-0">Status</a></li>
                 <li><a href="https://terms.nyxrobot.site/termos-de-servico-and-uso/termos-de-uso" className="block py-2 pl-3 pr-4 md:p-0">Termos de serviço & uso</a></li>
               </ul>
             </div>
