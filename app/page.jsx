@@ -10,7 +10,7 @@ export default function homePage() {
 
   return (
     <>
-      <main className="flex flex-col justify-center items-center mt-52">
+      <main className="flex flex-col justify-center items-center mt-32">
         <div className="flex justify-center flex-col items-center">
           <span className="font-black text-7xl max-md:text-4xl text-center">
               O Melhor Bot de Música é o
