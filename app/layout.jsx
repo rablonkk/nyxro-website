@@ -15,8 +15,7 @@ export default function Page({ children }) {
         <header className="border-gray-200 px-2 sm:px-4 py-2.5 rounded sticky">
           <div className="container flex flex-wrap items-center justify-between mx-auto">
             <a href="/" className="flex items-center">
-              <img src="/favicon.ico" className="h-6 mr-0 sm:h-9 mb-1" alt="NyxroBot Logo" />
-              <span className="self-center text-2xl font-black whitespace-nowrap">yxro</span>
+              <span className="self-center text-2xl font-black whitespace-nowrap">Nyxro</span>
             </a>
 
             <button onClick={() => openNavbar()} className="inline-flex items-center p-2 ml-3 text-sm md:hidden text-gray-400">
