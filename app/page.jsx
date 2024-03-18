@@ -10,7 +10,7 @@ export default function homePage() {
 
   return (
     <>
-      <main className="flex flex-col justify-center items-center mt-32">
+      <main className="flex flex-col justify-center items-center mt-44">
         <div className="flex justify-center flex-col items-center">
           <span className="font-black text-7xl max-md:text-4xl text-center">
               O Melhor Bot de Música é o
@@ -29,7 +29,7 @@ export default function homePage() {
       </main>
 
       {(data.users && data.guilds && data.tracks) && (
-        <ul className="mt-28 mb-10 w-full flex flex-wrap items-center justify-center gap-8">
+        <ul className="mt-16 mb-16 w-full flex flex-wrap items-center justify-center gap-8">
           <li className="bg-[#F9F9F9] rounded-2xl h-32 w-96 px-3 py-5 shadow-lg">
             <h1 className="font-bold text-2xl mb-2">👤 Usuários</h1>
             <p className="text-xl pl-5">+{data.users.toLocaleString()}</p>
