@@ -10,19 +10,19 @@ export default function socialPage() {
     <React.Fragment>
       <main className="w-full flex flex-wrap gap-16 mt-44 justify-center items-center">
         <div onClick={() => setProfile('sushi')} className="cursor-pointer flex flex-col items-center justify-center">
-          <img className="rounded-full w-32" src="https://media.discordapp.net/attachments/1152444974202368050/1219168926018310144/sushi.webp?ex=661cc78b&is=660a528b&hm=765e3bc9e699e1e455e299b1f5a50e375dac81f9b1c519fc0a25ce9b38331be1&=&format=webp" />
+          <img className="rounded-full w-32" src="https://media.discordapp.net/attachments/1152444974202368050/1219168926018310144/sushi.webp?ex=662f3c8b&is=661cc78b&hm=3474394d5e4ae0d0afcfc7880a05892e14e9c7055261cdb84504d8b50d37e5d0&=&format=webp" />
           <h1 className="text-xl font-bold mt-2">@isshushimi</h1>
         </div>
         <div onClick={() => setProfile('kyomi')} className="cursor-pointer flex flex-col items-center justify-center">
-          <img className="rounded-full w-32" src="https://media.discordapp.net/attachments/1152444974202368050/1219168926441799741/kyomi.webp?ex=661cc78b&is=660a528b&hm=05138fe3af118042d536e8efe5ab9a67bf37bfca091a7924a9133ae069643709&=&format=webp" />
+          <img className="rounded-full w-32" src="https://media.discordapp.net/attachments/1152444974202368050/1219168926441799741/kyomi.webp?ex=662f3c8b&is=661cc78b&hm=7b0c1637485e71835d304121a32c1c198f64f2f9c4e5fd81971330af7e78288e&=&format=webp" />
           <h1 className="text-xl font-bold mt-2">@bitterteriyaki</h1>
         </div>
         <div onClick={() => setProfile('eleven')} className="cursor-pointer flex flex-col items-center justify-center">
-          <img className="rounded-full w-32" src="https://media.discordapp.net/attachments/1152444974202368050/1219168926802640926/eleven.webp?ex=661cc78b&is=660a528b&hm=eb13fe03eeb306fbf9bd9c35ff2efa71d9b94192438c1e2126ab9210dd3a5690&=&format=webp" />
+          <img className="rounded-full w-32" src="https://media.discordapp.net/attachments/1152444974202368050/1219168926802640926/eleven.webp?ex=662f3c8b&is=661cc78b&hm=c3ec9c2fed8804cbd9262914f191d8c7ee2c964729477e902f6d5752ad4bb8f8&=&format=webp" />
           <h1 className="text-xl font-bold mt-2">@lambdasam</h1>
         </div>
         <div onClick={() => setProfile('rablonkk')} className="cursor-pointer flex flex-col items-center justify-center">
-          <img className="rounded-full w-32" src="https://media.discordapp.net/attachments/1152444974202368050/1219168927154966569/rablonkk.webp?ex=661cc78b&is=660a528b&hm=a17ae51db3d0925dc067649f5367ff68e805716538c480f40148f2b3ce53946e&=&format=webp&width=683&height=683" />
+          <img className="rounded-full w-32" src="https://media.discordapp.net/attachments/1152444974202368050/1219168927154966569/rablonkk.webp?ex=662f3c8b&is=661cc78b&hm=e2f68b79b82315a29740c54774f00727cb36fccb230efba397e96d8c48697fbe&=&format=webp&width=683&height=683" />
           <h1 className="text-xl font-bold mt-2">@rablonkk</h1>
         </div>
       </main>
