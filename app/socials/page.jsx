@@ -18,8 +18,8 @@ export default function socialPage() {
           <h1 className="text-xl font-bold mt-2">@bitterteriyaki</h1>
         </div>
         <div onClick={() => setProfile('eleven')} className="cursor-pointer flex flex-col items-center justify-center">
-          <img className="rounded-full w-32" src="https://avatars.githubusercontent.com/u/81419484?v=4" />
-          <h1 className="text-xl font-bold mt-2">@arthur.eleven</h1>
+          <img className="rounded-full w-32" src="https://avatars.githubusercontent.com/u/172940445?v=4" />
+          <h1 className="text-xl font-bold mt-2">@arthureleven</h1>
         </div>
         <div onClick={() => setProfile('rablonkk')} className="cursor-pointer flex flex-col items-center justify-center">
           <img className="rounded-full w-32" src="https://avatars.githubusercontent.com/u/157351009?v=4" />
